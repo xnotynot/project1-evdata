@@ -1,0 +1,52 @@
+﻿State,EV Sales %,EV Rebate,Gas Price Per Gallon,Household Median Income,Green Score
+Alabama,0.41,NO,3.47,51113,39.99
+Alaska,0.59,NO,2.46,72231,49.41
+Arizona,1.84,NO,2.52,61125,54.33
+Arkansas,0.35,NO,3.15,48829,40.09
+California,7.84,YES,4.05,69759,69.4
+Colorado,2.61,YES,2.85,74172,59.57
+Connecticut,2.02,YES,2.99,72780,73.89
+Delaware,1.27,YES,2.94,62318,63.19
+District of Columbia,3.34,NO,2.65,83382,
+Florida,1.03,NO,2.65,53681,50.15
+Georgia,1.18,NO,2.65,57016,53.89
+Hawaii,2.59,NO,3.65,73575,62.4
+Idaho,0.77,NO,2.67,60208,58.48
+Illinois,1.2,NO,3.2,64609,59.51
+Indiana,0.82,NO,2.99,58873,49.18
+Iowa,0.7,NO,2.88,63481,52.88
+Kansas,0.96,NO,2.6,57872,50.36
+Kentucky,0.53,NO,2.68,51348,32.23
+Louisiana,0.28,YES,2.47,43903,23.96
+Maine,1.13,NO,2.85,51664,66.73
+Maryland,1.91,YES,2.76,81084,66.6
+Massachusetts,2.53,YES,2.81,73227,72.53
+Michigan,0.59,NO,2.89,57700,63.65
+Minnesota,1.14,NO,2.72,71920,73.13
+Mississippi,0.22,NO,2.55,43441,42.69
+Missouri,0.73,NO,2.47,56885,57.94
+Montana,0.47,NO,2.87,59087,52.44
+Nebraska,0.73,NO,2.64,59619,50.53
+Nevada,1.62,NO,2.77,56550,65.63
+New Hampshire,1.16,NO,2.74,74801,67.79
+New Jersey,1.59,NO,2.74,72997,65.25
+New Mexico,0.81,NO,2.9,47855,51.18
+New York,1.56,YES,2.73,62447,75.49
+North Carolina,1.02,NO,3.49,50343,60.32
+North Dakota,0.24,NO,2.96,59886,37.9
+Ohio,0.74,NO,2.77,59768,50.87
+Oklahoma,0.35,NO,2.57,55006,42.8
+Oregon,3.41,YES,3.43,64610,75.24
+Pennsylvania,0.92,YES,3.01,63173,58.08
+Rhode Island,1.26,YES,2.86,66390,69
+South Carolina,0.53,NO,2.47,54971,57.39
+South Dakota,0.35,NO,2.79,56894,68.45
+Tennessee,0.73,NO,2.55,55240,54.71
+Texas,0.78,YES *,2.58,59295,46.67
+Utah,1.6,NO,3.2,71319,53.27
+Vermont,1.92,NO,2.59,63805,76.35
+Virginia,1.67,NO,2.81,71293,55.22
+Washington,4.28,NO,3.54,75418,65.77
+West Virginia,0.27,NO,2.84,45392,28.77
+Wisconsin,0.79,NO,2.76,63451,67.79
+Wyoming,0.35,NO,2.8,57837,36.91
