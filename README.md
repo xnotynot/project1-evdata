@@ -17,3 +17,5 @@ EV car sales
 	- Datasource required - EV charging stations by location(city/state) and EV cars (city/state)
 	
 ___________________________________________________________________________________
+EV Sales Vs Charging Infrastructure
+![EV Sales Vs Charging Infrastructure](https://github.com/xnotynot/project1-evdata/blob/22677d964a78037c7f7c5197583eb9c430641d39/Graphs/SlsVsChargInfra.png)
