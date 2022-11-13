@@ -17,13 +17,3 @@ EV car sales
 	- Datasource required - EV charging stations by location(city/state) and EV cars (city/state)
 	
 ___________________________________________________________________________________
-Demographic
-
-Scope: US Data
-
-Geo-Political Impact: Subsidies, Power-Grid load
-Demographic: Income, race, family-size,
-Geography: East/west/south/NE/NW e.t.c
-Accessibility: Charging stations,
-Pricing: EV Pricing Vs Vehicle category/size (Tesla, Chevy, Hyundai, Kia, Rivan e.t.c)openchargemap.orgQuestions to be answered:
-Factors that impact adoption rate![image](https://user-images.githubusercontent.com/94428256/199864170-268fdd42-7e23-4d9f-b6d9-4aa6739da564.png)
