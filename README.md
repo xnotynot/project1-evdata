@@ -53,7 +53,7 @@ There are states where the charging infrastructure stagnated after a certain num
 
 ___________________________________________________________________________________
 
-Question 1: Is there a relation between a states median income (United States) and the amount of Electric Vehicles purchased/registered in that state?
+### Relation between states median income (United States) and the amount of Electric Vehicles purchased/registered in that state
 
 In this section of our project we sought to answer the question: Is there a relationship between the median state income (for the United States) and the number of EV cars registered in that respective state between the years of 2016-2020? When graphed, we found that the R-value between these two variables was 0.26, which shows little to no correlation between the median income and EV purchases of each state. Although this lack of correlation is surprising it seems to highlight the fact that many different variables play into why and where EVs are purchased. These range from government financial incentives/subsidies, political/demographic populations of each state, availability to charging stations and many more. 
 
@@ -62,6 +62,9 @@ In this section of our project we sought to answer the question: Is there a rela
 The one obvious takeaway from the first graph was that California was an outlier in how many EVs were registered when compared to its median state income. Over the five year span California registered 617,830 electric vehicles whereas the second place state (New York) only added 62,237 vehicles in the same time span. To account for this outlier a new graph was created that contained the same information as the first, except this time California was removed from the data set. This new graph returned an R-value of 0.40 which shows a moderate correlation between the two variables. Although still being a low value this higher correlation shows that a states median income moderately accounts for EV purchases by state. 
 
 ![State Median Income vs Evs Registered by State (Excluding California)](https://github.com/xnotynot/project1-evdata/blob/main/Graphs/Registered%20EVs%20vs%20State%20Median%20Income%20(excluding%20California).png)
+_______________________________________________________________________________
+
+### Technical Analysis of EVs
 
 For this portion of the project we took a look at some of the technical data for a large amount of EVs in the market. We sought to answer two primary questions: which vehicles have the best efficiency in Watt Hours/Kilometer and which has the best cost efficiency in Price of Vehicle/Miles. For our first question, information pertaining to 102 electric vehicles was attained and the top 10 most efficient vehicles were listed and then graphed. The top 3 most efficient cars were the Lightyear One, Hyundai IONIQ Electric and Tesla Model 3 Standard Range Plus with WH/Km values of 104, 153, 153. The clear winner in our metric for efficiency is the Lightyear One, so consumers who are looking for a vehicle that gets the most distance per charge may want to purchase this one. As an aside, currently this vehicle is only available in select European markets and is not sold in the United States.
 
