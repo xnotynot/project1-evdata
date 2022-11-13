@@ -26,6 +26,9 @@ ________________________________________________________________________________
 ### Data
 	- Sources - US census Bureau https://www.census.gov/topics/population/data.html
 	- Alternate Fules Data Center - US Department of Energy https://afdc.energy.gov/
+	-Median income data was provided by: https://worldpopulationreview.com/state-rankings/median-household-income-by-state
+	-Electric Vehicle data was provided by: https://www.surfky.com/electric-car-sales-by-state (This data was amassed using numbers provided by the U.S. Department         of Transportation (USDT) and the California Energy Commission (CEC), among others).
+	-Metric data for each car was provided by: https://www.kaggle.com/code/tyrawls/electric-vehicle-analysis/report 
 ___________________________________________________________________________________
 ### EV Sales Vs Charging Infrastructure
 ### Study of Relationship between EV Sales and EV charging infrastructure
@@ -60,6 +63,13 @@ The one obvious takeaway from the first graph was that California was an outlier
 
 ![State Median Income vs Evs Registered by State (Excluding California)](https://github.com/xnotynot/project1-evdata/blob/main/Graphs/Registered%20EVs%20vs%20State%20Median%20Income%20(excluding%20California).png)
 
-Median income data was provided by: https://worldpopulationreview.com/state-rankings/median-household-income-by-state
+For this portion of the project we took a look at some of the technical data for a large amount of EVs in the market. We sought to answer two primary questions: which vehicles have the best efficiency in Watt Hours/Kilometer and which has the best cost efficiency in Price of Vehicle/Miles. For our first question, information pertaining to 102 electric vehicles was attained and the top 10 most efficient vehicles were listed and then graphed. The top 3 most efficient cars were the Lightyear One, Hyundai IONIQ Electric and Tesla Model 3 Standard Range Plus with WH/Km values of 104, 153, 153. The clear winner in our metric for efficiency is the Lightyear One, so consumers who are looking for a vehicle that gets the most distance per charge may want to purchase this one. As an aside, currently this vehicle is only available in select European markets and is not sold in the United States.
 
-Electric Vehicle data was provided by: https://www.surfky.com/electric-car-sales-by-state (This data was amassed using numbers provided by the U.S. Department of Transportation (USDT) and the California Energy Commission (CEC), among others).
+![Most Efficient Cars by WHKm](https://github.com/xnotynot/project1-evdata/blob/main/Graphs/Most%20Efficient%20EVs%20(WHKm).png)
+
+For cost efficiency analysis we took the base price of each EV and divided by the max range the EV could travel when on a full charge of its battery. This metric helps to measure how much money you are paying for each mile you are able to travel with each EV (this data does not take into account the cost of charge for each vehicle). According to our metric the most cost efficient cars were the Volkswagen ID.3 Pro, Volkswagen ID.3 Pro S and the Skoda Enyaq iV 80 with Price to mile ratios of $149.73, $151.74 and $153.27. From this data it seems that Volkswagen makes the most Price efficient cars for its customers.
+
+![Most Cost Efficient Cars](https://github.com/xnotynot/project1-evdata/blob/main/Graphs/Cost%20Efficiency%20(PriceMile).png)
+
+
+
