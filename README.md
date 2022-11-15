@@ -28,7 +28,7 @@ All these have prompted an increase in EV sales and adoption. The sale cost of E
 ___________________________________________________________________________________
 ### Data
 * Sources - US census Bureau https://www.census.gov/topics/population/data.html
-* Alternate Fules Data Center - US Department of Energy https://afdc.energy.gov/
+* Alternate Fuels Data Center - US Department of Energy https://afdc.energy.gov/
 * Median income data was provided by: https://worldpopulationreview.com/state-rankings/median-household-income-by-state
 * Electric Vehicle data: https://www.surfky.com/electric-car-sales-by-state (This data was amassed using numbers provided by the U.S. Department         of Transportation (USDT) and the California Energy Commission (CEC), among others).
 * Metric data for each car was provided by: https://www.kaggle.com/code/tyrawls/electric-vehicle-analysis/report 
